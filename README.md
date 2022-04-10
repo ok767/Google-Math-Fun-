@@ -10,3 +10,5 @@ https://googlemath.cf/
 https://teacher.studysciencetest.ml/                         
 https://fortnutbattlepass.ga/              
 https://farterqq.ml/              
+
+ALSO:https://www.retrostic.com/roms/ funny
