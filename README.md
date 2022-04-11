@@ -1,7 +1,9 @@
-# Google-Math-Fun-
-gogle math ok guys
-All the sites listed below go to googlemath.net ok
+# Google-Math-Fun-        
+gogle math ok guys              
+All the sites listed below go to googlemath.net ok              
+
 Regular:             
+
 https://googlemath.net/                       
 https://googlemath.ga/               
 https://googlemath.cf/             
@@ -14,12 +16,14 @@ https://lexiapowerup.cf/
 https://basicmathqna.ga/              
 
 Heroku:                 
+
 https://canvasinstructure.herokuapp.com/                    
 https://chemistryhelp.herokuapp.com/                 
 https://sciencetest.herokuapp.com/      
 https://sciencework.herokuapp.com/           
 
 Repl:                 
+
 https://5ccb4169-8901-4752-b4d0-a9d63f79c621.id.repl.co/            
 https://d2292bdc-c131-47a1-85f0-8dfd241e9a45.id.repl.co/           
 https://6b9f2058-977d-433c-9717-45a7172bd683.id.repl.co/                
@@ -32,4 +36,5 @@ https://49d38597-1777-4719-9b95-94065145d1c1.id.repl.co/
 https://787566ef-c7e7-40a4-8b69-99644d846d88.id.repl.co/          
 https://fec07033-4d00-4933-a7ec-dfa32c1d48a3.id.repl.co/           
 
-ALSO:https://www.retrostic.com/roms/ funny
+ALSO:                 
+https://www.retrostic.com/roms/ for roms
