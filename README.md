@@ -1,7 +1,7 @@
 # Google-Math-Fun-
 gogle math ok guys
 All the sites listed below go to googlemath.net ok
-Regular:
+Regular:             
 https://googlemath.net/                       
 https://googlemath.ga/               
 https://googlemath.cf/             
@@ -13,13 +13,13 @@ https://googlemath.tk/
 https://lexiapowerup.cf/
 https://basicmathqna.ga/
 
-Heroku:
+Heroku:                 
 https://canvasinstructure.herokuapp.com/                   
 https://chemistryhelp.herokuapp.com/                 
 https://sciencetest.herokuapp.com/      
 https://sciencework.herokuapp.com/
 
-Repl:
+Repl:                 
 https://5ccb4169-8901-4752-b4d0-a9d63f79c621.id.repl.co/
 https://d2292bdc-c131-47a1-85f0-8dfd241e9a45.id.repl.co/
 https://6b9f2058-977d-433c-9717-45a7172bd683.id.repl.co/
